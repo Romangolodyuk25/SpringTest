@@ -5,6 +5,7 @@ import roma.springboot.dto.DickStatusRequest
 import roma.springboot.dto.DickStatusResponse
 
 @Service
+//мои правки
 class DickService {
     fun isDickOk(dickStatusRequest: DickStatusRequest): DickStatusResponse {
         if (dickStatusRequest.dickLength < 10) {
