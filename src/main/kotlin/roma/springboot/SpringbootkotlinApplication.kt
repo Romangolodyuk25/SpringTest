@@ -1,4 +1,4 @@
-package kotlin.springboot
+package roma.springboot
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

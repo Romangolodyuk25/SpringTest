@@ -1,4 +1,4 @@
-package kotlin.springboot
+package roma.springboot
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertNotNull
